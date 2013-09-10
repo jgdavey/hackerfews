@@ -1,4 +1,5 @@
 (ns hackerfews.core
+  (:gen-class)
   (:require [net.cgrand.enlive-html :as html]
             [clojure.pprint :as pprint]))
 
