@@ -9,3 +9,9 @@ pom.xml
 .lein-failures
 .lein-plugins
 .lein-repl-history
+/.repl
+/js
+/node_modules
+/resources/out
+/resources/**/*.map
+/resources/**/*.js
